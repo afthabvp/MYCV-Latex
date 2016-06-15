@@ -7,8 +7,8 @@
 ## Preview
 You can see [PDF](https://github.com/afthabvp/MYCV-Latex/blob/master/resume.pdf)
 
-![alt tag](https://github.com/afthabvp/MYCV-Latex/blob/master/resume-1)
-![alt tag](https://github.com/afthabvp/MYCV-Latex/blob/master/resume-2)
+![alt tag](https://github.com/afthabvp/MYCV-Latex/blob/master/resume-1.png)
+![alt tag](https://github.com/afthabvp/MYCV-Latex/blob/master/resume-2.png)
 
 
 ## Quick Start
